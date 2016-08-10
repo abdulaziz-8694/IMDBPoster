@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMDBPoster</string>
+    <string name="app_closing">Your mobile is not connected to internet. Closing the App</string>
+    <string name="search">Search</string>
+</resources>
